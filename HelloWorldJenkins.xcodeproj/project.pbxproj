@@ -96,7 +96,6 @@
 				TargetAttributes = {
 					6F65548A1CC851280086C4AF = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = ZHR2M3SC8J;
 					};
 				};
 			};
@@ -256,7 +255,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Jaime Martinez (3MZBQKSXBF)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jaime Martinez (3MZBQKSXBF)";
 				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				INFOPLIST_FILE = HelloWorldJenkins/Info.plist;
@@ -271,7 +270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Jaime Martinez (3MZBQKSXBF)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Jaime Martinez (3MZBQKSXBF)";
 				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				INFOPLIST_FILE = HelloWorldJenkins/Info.plist;
